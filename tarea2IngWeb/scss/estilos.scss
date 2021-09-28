@@ -1,0 +1,48 @@
+$imgurl:("https://www.colorhexa.com/e7fef4.png");
+
+body{
+    background-image: url($imgurl);
+}
+
+h1{
+    padding: 30px;
+}
+
+.divtype1{
+    padding: 30px;
+    border-radius: 20px;
+    margin: 15px;
+    background-color: white;
+    border: solid 3px rgb(161, 161, 161);
+    
+}
+
+#formulario span{
+    font-size: 15px;
+    font-weight:bolder;
+    color:rgb(251, 46, 90);
+}
+
+#mensaje{
+    text-align: center;
+    
+    line-height:40px;
+    padding: 70px;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border: solid 3px rgb(195, 193, 193);
+    height: 300px;
+    background-color: white;
+}
+
+#p1{
+    font-size: 20px;
+}
+
+#p2{
+    font-size: 18px;
+    color:rgb(61, 61, 61);
+}

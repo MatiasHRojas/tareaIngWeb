@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://www.colorhexa.com/e7fef4.png");
+}
+
+h1 {
+  padding: 30px;
+}
+
+.divtype1 {
+  padding: 30px;
+  border-radius: 20px;
+  margin: 15px;
+  background-color: white;
+  border: solid 3px #a1a1a1;
+}
+
+#formulario span {
+  font-size: 15px;
+  font-weight: bolder;
+  color: #fb2e5a;
+}
+
+#mensaje {
+  text-align: center;
+  line-height: 40px;
+  padding: 70px;
+  border-radius: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  border: solid 3px #c3c1c1;
+  height: 300px;
+  background-color: white;
+}
+
+#p1 {
+  font-size: 20px;
+}
+
+#p2 {
+  font-size: 18px;
+  color: #3d3d3d;
+}
+/*# sourceMappingURL=estilos.css.map */
